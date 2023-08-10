@@ -1,0 +1,17 @@
+  1. feldat
+
+ 1. Olvasd be a file-t (avagy fájlokat) adatszerkezetbe, hogy a könyvek
+    kategóriánként legyenek rendezve!
+
+Plan
+
+ ArrayList with Book class data
+
+ 1,    ArraList letre hozasa  Book Class
+ 2,    Book File read add load to Book Class
+ 3.    Add Book class (remove extra space from data trim)
+ 4,    Category File read
+ 5,    Add category to book
+ 6,    Order by category number
+ 7,    Print out List
+
